@@ -1,0 +1,11 @@
+
+p{
+    background-color: pink;
+    
+}
+p:hover{ 
+
+       background-color: aqua;
+       
+
+}
