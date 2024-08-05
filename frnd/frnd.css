@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    height: 50px;
+    width: 400px;
+    border-right: 30px;
+    margin: 20px;
+background-color: chocolate;
+    color: black;
+    border: 5px outset pink;
+    border-radius: 0px 0px 50px 0px;
+
+    
+}
+p{
+    color: black;
+    background-color: pink;
+    font-size: 25px;
+    width: 500px;
+
+}
+body{
+    background: url(./images\ \(1\).jpg) no-repeat;
+    background-size: cover;
+}
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   height: 400px;
+   width: 300px;
+}
